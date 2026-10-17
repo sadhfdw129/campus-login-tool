@@ -1,0 +1,14 @@
+{
+  "portal_host": "10.0.0.1",
+  "portal_port": 801,
+  "default_ac_ip": "10.0.0.254",
+  "probe_timeout": 4,
+  "online_interval": 300,
+  "offline_interval": 15,
+  "carriers": {
+    "中国移动": ",0,{user}@yidong",
+    "中国联通": ",0,{user}@unicom",
+    "中国电信": ",0,{user}@telecom",
+    "专用网络": ",0,{user}"
+  }
+}

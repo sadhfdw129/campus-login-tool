@@ -1,0 +1,7 @@
+# 个人凭据：不提交、不分享
+credentials.json
+# 含校园网内网地址的学校配置：不提交，用 config.example.json 代替
+config.json
+__pycache__/
+*.pyc
+*.bak
